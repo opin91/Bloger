@@ -1,0 +1,5 @@
+C:\Users\lewan\Desktop\restapi\Bloger\Application\obj\Debug\net5.0\Application.csproj.AssemblyReference.cache
+C:\Users\lewan\Desktop\restapi\Bloger\Application\obj\Debug\net5.0\Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lewan\Desktop\restapi\Bloger\Application\obj\Debug\net5.0\Application.AssemblyInfoInputs.cache
+C:\Users\lewan\Desktop\restapi\Bloger\Application\obj\Debug\net5.0\Application.AssemblyInfo.cs
+C:\Users\lewan\Desktop\restapi\Bloger\Application\obj\Debug\net5.0\Application.csproj.CoreCompileInputs.cache
